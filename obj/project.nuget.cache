@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ECP6tm+CZR3POD6NglvCXRo24MTNhZY0JE6fZBUCyzY/ssgn1Y8U7sq+R1X8IO+lbLK8+wzbdhLb/Hli2vulA==",
+  "success": true,
+  "projectFilePath": "D:\\Api\\RpgMvc\\RpgMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

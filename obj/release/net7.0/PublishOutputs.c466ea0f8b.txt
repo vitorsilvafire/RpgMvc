@@ -1,0 +1,8 @@
+D:\Api\RpgMvc\Publish\RpgMvc.exe
+D:\Api\RpgMvc\Publish\appsettings.Development.json
+D:\Api\RpgMvc\Publish\appsettings.json
+D:\Api\RpgMvc\Publish\RpgMvc.dll
+D:\Api\RpgMvc\Publish\RpgMvc.deps.json
+D:\Api\RpgMvc\Publish\RpgMvc.runtimeconfig.json
+D:\Api\RpgMvc\Publish\RpgMvc.pdb
+D:\Api\RpgMvc\Publish\Newtonsoft.Json.dll
